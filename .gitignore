@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # custom files
-/src/firebase/firebase.config.js
-/src/components/stripe-button/stripe.config.js
+# /src/firebase/firebase.config.js
+# /src/components/stripe-button/stripe.config.js
